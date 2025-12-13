@@ -257,12 +257,14 @@ body {
     color: #fff;
     margin-bottom: 210px;
     margin-left: 422px;
+    border: none;
 }
 
 .answer {
     max-width: 1200px;
     display: flex;
     gap: 69px;
+    margin-bottom: 169px;
 }
 
 .answer__text {
@@ -299,8 +301,92 @@ body {
     font-size: 17px;
     line-height: 27px;
     letter-spacing: 0.36px;
+    margin-bottom: 68px;
 }
 
+.textg {
+    margin-left: 200px;
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 0.36px;
+    margin-bottom: 68px;
+}
+
+.textf {
+    margin-left: 200px;
+    margin-bottom: 26px;
+    font-size: 24px;
+    line-height: 31.2px;
+    letter-spacing: 0.6;
+}
+
+.texto {
+    margin-left: 200px;    
+    font-size: 24px; 
+    margin-bottom: 26px;
+}
+
+.textp {
+    margin-left: 200px;
+    font-size: 17px;
+
+}
+
+.fg__title {
+    text-align: center;
+    margin-bottom: 29px;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+}
+
+.footer {
+   max-width: 1200px;   
+}
+
+
+.footer__top {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: enter;
+    margin-bottom: 70px;
+}
+
+.footer__title-left {
+    margin-left: 100px;
+    font-size: 54px;
+    line-height: 70.2px;
+    margin-right: 171px;
+    margin-top: 83px;
+}
+
+.footer__list-left {
+    margin-top: 80px;
+    margin-right: 200px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+}
+
+.footer__list-right {
+    margin-top: 80px;
+}   
+
+.title__list-right {
+    margin-bottom: 23px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
 
 
 
